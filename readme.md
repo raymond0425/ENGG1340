@@ -3,7 +3,7 @@
   * HONG, Yuk Sing 3035927257 
   * FUNG, Ho Sang 3035927386
 * Topic: WordlePro
-* This is a coursework project that scored full mark (15/15) in HKU.
+* This is a coursework project that scored **full mark (15/15)** in HKU.
 #
 ## Game rules
 WordlePro is an improved version of the classic wordle game in C++! On top of the normal game rules, WordlePro allows user to select a difficulty level of the hidden word on a scale of 1 to 10. <br /> <br />
